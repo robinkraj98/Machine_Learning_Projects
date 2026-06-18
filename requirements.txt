@@ -50,6 +50,7 @@ multitasking==0.0.13
 mypy_extensions==1.1.0
 nest-asyncio==1.6.0
 numpy==1.26.4
+nltk==3.9.0
 oauthlib==3.3.1
 opencv-python==4.11.0.86
 opencv-python-headless==4.11.0.86
