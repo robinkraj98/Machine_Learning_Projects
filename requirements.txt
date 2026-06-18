@@ -48,6 +48,7 @@ mdurl==0.1.2
 ml-dtypes==0.3.2
 multitasking==0.0.13
 mypy_extensions==1.1.0
+nbformat>=5.0
 nest-asyncio==1.6.0
 numpy==1.26.4
 nltk==3.9.0
@@ -67,6 +68,7 @@ pexpect==4.9.0
 pillow==12.2.0
 platformdirs==4.5.0
 playa-pdf==1.1.0
+plotly==5.15.0
 prompt_toolkit==3.0.52
 protobuf==4.25.9
 psutil==7.1.3
